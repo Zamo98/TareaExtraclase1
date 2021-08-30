@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/TareaExtraclase1.dir/main.cpp.o -o TareaExtraclase1.exe -Wl,--out-implib,libTareaExtraclase1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
